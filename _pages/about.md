@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Hello!"
+excerpt: "I am a graduate student at Indiana University working on stochastic online planning and learning."
 author_profile: true
 redirect_from: 
   - /about/
