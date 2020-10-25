@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at [Indiana University](https://www.indiana.edu/) pursuing Master's in Data Science. At present, I am working with [Prof. Roni Khardon](https://scholar.google.com/citations?user=ymCi4oEAAAAJ&hl=en&oi=ao) on stochastic online planning and learning.
+I am a graduate student at [Indiana University](https://www.indiana.edu/) pursuing Master's in Data Science. My interests are in the field of Artificial Intelligence, more specifically in Deep Learning, Reinforcement Learning and Continual Learning. At present, I am working with [Prof. Roni Khardon](https://scholar.google.com/citations?user=ymCi4oEAAAAJ&hl=en&oi=ao) on stochastic online planning and learning.
 
 Prior to this, I worked for a couple of years at [ThoughtWorks Technologies](https://www.thoughtworks.com/) as a software consultant.
 
