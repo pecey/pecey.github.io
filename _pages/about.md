@@ -14,6 +14,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a graduate student at [Indiana University](https://www.indiana.edu/) pursuing Master's in Data Science. I am currently working with [Roni Khardon](https://scholar.google.com/citations?user=ymCi4oEAAAAJ&hl=en&oi=ao) on stochastic online planning and learning.
+I am a first year Ph.D. student at [Indiana University](https://www.indiana.edu/) and am currently working with [Roni Khardon](https://scholar.google.com/citations?user=ymCi4oEAAAAJ&hl=en&oi=ao) on stochastic online planning and learning.
 
-Prior to this, I worked for a couple of years at [ThoughtWorks Technologies](https://www.thoughtworks.com/) as a software consultant.
+Previously, I worked for a couple of years at [ThoughtWorks Technologies](https://www.thoughtworks.com/) as a software consultant.
