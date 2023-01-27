@@ -114,8 +114,9 @@ a, table.table a {
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
-    font-size: 1.7rem;
+    font-size: 1.25rem;
     a {
+      padding: 0 5px;
       i::before {
         color: var(--global-text-color);
         -webkit-transition: all 0.2s ease-in-out;
