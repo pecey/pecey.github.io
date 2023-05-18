@@ -725,3 +725,12 @@ progress {
      display: block;
      height: inherit;
  }
+
+
+// Custom
+.news {
+  table.table-sm th, table.table-sm td{
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+  }
+}
