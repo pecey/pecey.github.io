@@ -18,7 +18,7 @@ nav: false
     {% endif %}
     {% for item in news %} 
     <tr>
-        <th scope="row" style="width:20%">{{ item.date | date: "%b, %Y" }}</th>
+        <th scope="row" style="min-width:80px">{{ item.date | date: "%b, %Y" }}</th>
         <td>
         {% if item.inline -%} 
             {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
