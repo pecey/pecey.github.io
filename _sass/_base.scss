@@ -4,6 +4,15 @@
 
 // Typography
 
+body {
+  background-color: var(--global-bg-color);
+  background-image:
+    linear-gradient(to right, var(--global-grid-color) 1px, transparent 1px),
+    linear-gradient(to bottom, var(--global-grid-color) 1px, transparent 1px);
+  background-size: 32px 32px;
+  background-attachment: fixed;
+}
+
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
 }
@@ -281,6 +290,7 @@ footer.fixed-bottom {
     color: var(--global-footer-text-color);
     padding-top: 9px;
     padding-bottom: 8px;
+    text-align: center;
   }
   a {
     color: var(--global-footer-link-color);
